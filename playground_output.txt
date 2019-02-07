@@ -1,0 +1,11 @@
+Hello World
+What is your name: Raveena
+Hello Raveena
+Hello Raveena
+Variable  i has the value 120
+Variable f has the value 1.6180339 and its type is <class 'float'>
+Variable b has the  value True
+Variable n has the value None
+ c[0] has the value 10 and is of type: <class 'tuple'>
+ l[0] has the value 10 and is of type: <class 'list'>
+{1, 4, 6}
